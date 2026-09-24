@@ -34,7 +34,9 @@ I enjoy working on both frontend and backend development and building practical 
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Chirag Singh Jina](YOURwww.linkedin.com/in/chirag-singh-jina-a67443271
+- LinkedIn: www.linkedin.com/in/chirag-singh-jina-a67443271
+
+
 
 _LINKEDIN_URL)
 - GitHub: [chiragsinghjina2004-design](https://github.com/chiragsinghjina2004-design)
